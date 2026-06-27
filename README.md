@@ -112,20 +112,4 @@ The published research paper is available inside the **Paper** folder.
 * Emotion history tracking
 * Mobile application
 * Cloud integration
-
----
-
-## 👩‍💻 Author
-
-**Sakshi Bhaganagare**
-
-B.Tech – Electronics & Telecommunication Engineering
-
----
-
-## ⭐ If you like this project
-
-Please consider giving this repository a ⭐ on GitHub.
-
-```
-```
+* 
